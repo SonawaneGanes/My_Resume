@@ -11,7 +11,7 @@ This repository contains the resume of **Ganes Sonawane**.
 
 ## Resume
 
-📄 [Click here to view/download my Resume]([./resume.pdf](https://github.com/SonawaneGanes/My_Resume.git))
+📄 [Click here to view/download my Resume](https://github.com/SonawaneGanes/My_Resume.git)
 
 ## Contact
 
